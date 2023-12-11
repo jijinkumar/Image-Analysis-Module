@@ -1,0 +1,5 @@
+opencv-python==4.5.3.56
+torch==1.9.0
+transformers==4.11.2
+torchvision==0.10.0
+detectron2==0.5
